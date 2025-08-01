@@ -13,4 +13,4 @@ Machine Learning Fundamentals
 *Accuracy
 *Precision
 *Recall
-*F1 Score
+*F1 Score:The F1 score is a metric used to evaluate the performance of a classification model. It balances precision and recall into a single number.
